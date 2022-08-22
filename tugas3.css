@@ -51,19 +51,3 @@ nav{
     display:none;
     }
 }
- 
-@meida (max-width:1100px){
-    *{
-    flex-direction:column;
-        height:auto;
-    }
-    
-    .kotak{
-    margin-bottom:5px;
-        width:100%;
-    }
-    
-    .cari{
-    display:none;
-    }
-}
