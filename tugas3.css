@@ -36,7 +36,7 @@ nav{
 /* maksimal panjangnya 390 pixel kalo lebih dari 390 pixel gabakalan jalan */
 
 /* kalo pake min-width */
-@media (max-width : 390px) and (min-width:1100px){
+@media (max-width : 390px){
     *{
         flex-direction:column;
         height:auto;
