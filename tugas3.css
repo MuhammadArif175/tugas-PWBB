@@ -52,3 +52,18 @@ nav{
     }
 }
  
+@meida (max-width:1045px){
+    *{
+    flex-direction:column;
+        height:auto;
+    }
+    
+    .kotak{
+    margin-bottom:5px;
+        width:100%;
+    }
+    
+    .cari{
+    display:none;
+    }
+}
