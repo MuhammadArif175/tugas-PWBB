@@ -52,7 +52,7 @@ nav{
     }
 }
  
-@meida (max-width:1045px){
+@meida (max-width:1100px){
     *{
     flex-direction:column;
         height:auto;
