@@ -4,15 +4,14 @@ nav #kategori{
 display: none;
 }
 
-#footer{
-    
+#gambarSlide{
+    display: none;
 }
 
 nav input{
     display:none;
-}
 
-        
+}
 }
 
 
