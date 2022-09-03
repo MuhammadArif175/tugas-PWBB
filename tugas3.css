@@ -1,33 +1,12 @@
-nav{
-    height: 100%;
-    width: 100%;
-    padding: 10px;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    align-content: center;
-    margin-bottom: 4px;
-    margin-top: 2px;
-}
-
-.container{
- display: flex;
- text-decoration-line: inline; }
-
-.gambar{
-  display: flex;
-    justify-content: space-around;
-    align-items: center;
-    align-content: center;
-    flex-direction: column;
-}
-
-
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative&family=Patrick+Hand&display=swap');
 @media(max-width:1109px){
 nav #kategori{
 display: none;
 }
 
+#footer{
+    
+}
 
 nav input{
     display:none;
@@ -35,3 +14,5 @@ nav input{
 
         
 }
+
+
