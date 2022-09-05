@@ -1,3 +1,16 @@
+@font-face {
+
+    font-family: 'Munkeyshine';
+
+    font-style: normal;
+
+    font-weight: 400;
+
+    src: local('Munkeyshine'), url('https://fonts.cdnfonts.com/s/21282/Munkeyshine.woff') format('woff');
+
+}
+
+
 @import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative&family=Patrick+Hand&display=swap');
 @media(max-width:390px){
 nav #kategori{
