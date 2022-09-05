@@ -10,6 +10,17 @@
 
 }
 
+@font-face {
+
+    font-family: 'Speculum Outline';
+
+    font-style: normal;
+
+    font-weight: 400;
+
+    src: local('Speculum Outline'), url('https://fonts.cdnfonts.com/s/9025/speculo.woff') format('woff');
+
+}
 
 @import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative&family=Patrick+Hand&display=swap');
 @media(max-width:390px){
